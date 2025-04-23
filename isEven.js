@@ -1,10 +1,10 @@
 function isEven(number){
 
     if(number%2 ==0 ){
-        return ('is even')
+        return ('it is even')
     }
     else{
-        return ('is odd')
+        return ('it is odd')
     }
 
 }
