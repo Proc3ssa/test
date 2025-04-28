@@ -20,6 +20,6 @@ jobs:
               "user_id": "${vqYyv2J3u7inIVDaR}",
               "template_params": {
                   "subject": "New Push to GitHub Repo!",
-                  "message": "I pushed to the cloud 🚀"
+                  "message": "I pushed to the github 🚀"
               }
             }'
