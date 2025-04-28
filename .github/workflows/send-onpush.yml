@@ -15,9 +15,9 @@ jobs:
             -H "origin: https://github.com" \
             -H "Content-Type: application/json" \
             -d '{
-              "service_id": "${{ service_jgap5ij }}",
-              "template_id": "${{ template_luej17l }}",
-              "user_id": "${{ vqYyv2J3u7inIVDaR }}",
+              "service_id": "${service_jgap5ij}",
+              "template_id": "${emplate_luej17l}",
+              "user_id": "${vqYyv2J3u7inIVDaR}",
               "template_params": {
                   "subject": "New Push to GitHub Repo!",
                   "message": "I pushed to the cloud 🚀"
